@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" tests="11" assertions="11" failures="1" errors="0" time="0.052597">
+    <testcase name="test_Suma" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="7" assertions="1" time="0.026751"/>
+    <testcase name="test_Concatenar" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="19" assertions="1" time="0.000954"/>
+    <testcase name="test_restar" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="25" assertions="1" time="0.006933"/>
+    <testcase name="test_responder" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="32" assertions="1" time="0.001573"/>
+    <testcase name="test_True" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="39" assertions="1" time="0.002563"/>
+    <testcase name="test_False" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="43" assertions="1" time="0.002505"/>
+    <testcase name="test_Null" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="50" assertions="1" time="0.002045"/>
+    <testcase name="test_ArrayEquality" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="57" assertions="1" time="0.001386"/>
+    <testcase name="test_arreglos" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="64" assertions="1" time="0.002120"/>
+    <testcase name="testException1" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="100" assertions="1" time="0.002236"/>
+    <testcase name="testException2" class="miprimeraPrueba" file="C:\Prueba\PrimeraPrueba\Pruebas\test\miprimeraPrueba.php" line="109" assertions="1" time="0.003531">
+      <failure type="PHPUnit_Framework_ExpectationFailedException">miprimeraPrueba::testException2
+Failed asserting that exception of type "InvalidArgumentException" is thrown.
+
+</failure>
+    </testcase>
+  </testsuite>
+</testsuites>
