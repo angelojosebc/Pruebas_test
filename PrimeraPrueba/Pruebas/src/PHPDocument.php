@@ -1,5 +1,4 @@
 <?php 
-include 'index.php';
 //Funciones con resultados numericos
 
 	function sumar($var1,$var2)
