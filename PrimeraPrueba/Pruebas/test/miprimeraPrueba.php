@@ -1,5 +1,5 @@
 <?php
-include '../src/PHPDocument.php';
+include '/src/PHPDocument.php';
 
 Class miprimeraPrueba extends PHPUnit_Framework_TestCase {
 	
